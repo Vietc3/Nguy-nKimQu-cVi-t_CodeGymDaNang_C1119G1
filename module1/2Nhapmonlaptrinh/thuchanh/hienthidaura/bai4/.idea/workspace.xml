@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d25a1601-22f8-435c-bd1a-6429e1736c67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bai1/.idea/bai1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai1/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d25a1601-22f8-435c-bd1a-6429e1736c67" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -46,19 +41,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/bai4.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="135" />
-    <option name="y" value="20" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="438" />
     <option name="width" value="1750" />
     <option name="height" value="995" />
   </component>
@@ -84,9 +68,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../baitap/sudunggit" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Module1\module1\2Nhapmonlaptrinh\baitap\sudunggit" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -110,15 +101,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574736828338</updated>
-      <workItem from="1574736829553" duration="213000" />
+      <workItem from="1574736829553" duration="1440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="213000" />
+    <option name="totallyTimeSpent" value="1440000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="108" y="16" width="1400" height="796" extended-state="0" />
+    <frame x="351" y="0" width="1400" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -144,6 +135,9 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../baitap/sudunggit/sudunggit.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/bai4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
