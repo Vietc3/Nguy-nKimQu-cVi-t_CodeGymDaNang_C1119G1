@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d25a1601-22f8-435c-bd1a-6429e1736c67" name="Default Changelist" comment="" />
+    <list default="true" id="2b0c28af-1694-4207-a214-3a871ed124e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../2Nhapmonlaptrinh/thuchanh/hienthidaura/bai4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2Nhapmonlaptrinh/thuchanh/hienthidaura/bai4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../13213.txt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,11 +16,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bai4.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bai1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="72">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../bai2/bai2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../bai3/bai3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" selection-end-line="15" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -37,12 +58,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bai4.html" />
+        <option value="$PROJECT_DIR$/bai1.html" />
+        <option value="$PROJECT_DIR$/../bai2/bai2.html" />
+        <option value="$PROJECT_DIR$/../bai3/bai3.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="438" />
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/bai1.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="102" />
+    <option name="y" value="51" />
     <option name="width" value="1750" />
     <option name="height" value="995" />
   </component>
@@ -57,8 +91,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="bai4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bai4" type="462c0819:PsiDirectoryNode" />
+              <item name="bai1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -68,15 +102,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../baitap/sudunggit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bai3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Module1\module1\2Nhapmonlaptrinh\baitap\sudunggit" />
+      <recent name="E:\Module1\module1\3Bienkieudulieuvatoantu\thuchanh\khaibaovasudungbien\bai3" />
+      <recent name="E:\Module1\module1\3Bienkieudulieuvatoantu\thuchanh\khaibaovasudungbien\bai2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -96,24 +130,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d25a1601-22f8-435c-bd1a-6429e1736c67" name="Default Changelist" comment="" />
-      <created>1574736828338</created>
+      <changelist id="2b0c28af-1694-4207-a214-3a871ed124e0" name="Default Changelist" comment="" />
+      <created>1574751158367</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574736828338</updated>
-      <workItem from="1574736829553" duration="1518000" />
+      <updated>1574751158367</updated>
+      <workItem from="1574751159486" duration="2593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1518000" />
+    <option name="totallyTimeSpent" value="2593000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="351" y="0" width="1400" height="796" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944974" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -135,13 +169,24 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../baitap/sudunggit/sudunggit.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bai4.html">
+    <entry file="file://$PROJECT_DIR$/bai1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="72">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bai2/bai2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bai3/bai3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
