@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+Amount </br>
+<form >
+        <input id="sotien" type="number"/>
+</form>
+</br>
+From Currency</br>
+<select  id="quocgia" onchange="hamlaydulieu(this)">
+    <option value="My">Mỹ</option>
+    <option value="VN">VN</option>
+</select>
+</br>
+Currency</br>
+<select  id="donvi" onchange="hamdonvi(this)">
+    <option value="USD">USD</option>
+    <option value="VND">VND</option>
+</select>
+</br>
+<button onclick="myFunction()" id="ketqua">kết quả</button>
+</br>
+<text> result</text>
+    <script >
+        let a;
+        let c;
+        let sotien;
+        let viet;
+        let my;
+        let quocgia;
+
+
+        function myFunction() {
+            sotien =Number(document.getElementById("sotien").value);
+            viet=sotien * 23000;
+            my=sotien / 23000;
+            quocgia=document.getElementById("quocgia").value;
+            donvi=document.getElementById("donvi").value;
+            if (quocgia === "VN") {
+               if (donvi === "USD") {
+                    alert('so tien la' + viet)
+                }}
+
+            else if (quocgia === "My") {
+              if (donvi=== "VND") {
+                    alert('so tien la' + my)
+                }}
+            else{alert('chon lai')}
+        }
+
+
+    </script>
+</body>
+
+</html>
