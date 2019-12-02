@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f96dd07-cc33-4aa3-86f7-0ce414ce922c" name="Default Changelist" comment="" />
+    <list default="true" id="6f96dd07-cc33-4aa3-86f7-0ce414ce922c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai1/.idea/bai1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai2/.idea/bai2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai3/.idea/bai3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/2Nhapmonlaptrinh/thuchanh/nhungjavascript/bai3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/4Cautrucdieukien/thuchanh/luyentamswichcase/.idea/luyentamswichcase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/4Cautrucdieukien/thuchanh/luyentamswichcase/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/4Cautrucdieukien/thuchanh/luyentamswichcase/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/4Cautrucdieukien/thuchanh/luyentamswichcase/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/4Cautrucdieukien/thuchanh/luyentamswichcase/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/4Cautrucdieukien/thuchanh/sukienbanphim/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/4Cautrucdieukien/thuchanh/sukienbanphim/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/4Cautrucdieukien/thuchanh/sukienbanphim/.idea/sukienbanphim.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/4Cautrucdieukien/thuchanh/sukienbanphim/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/4Cautrucdieukien/thuchanh/sukienbanphim/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/4Cautrucdieukien/thuchanh/sukienbanphim/New folder/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/CASESTUDY/.idea/CASESTUDY.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/CASESTUDY/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/CASESTUDY/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/CASESTUDY/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,12 +44,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/module1/3Bienkieudulieuvatoantu/baitap/bienkieudulieuvatoantu/bai1/BAi1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="144">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -37,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="100" />
     <option name="y" value="50" />
     <option name="width" value="1750" />
@@ -184,7 +216,248 @@
               <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Module1" type="462c0819:PsiDirectoryNode" />
               <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="2Nhapmonlaptrinh" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="nhungjavascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="2Nhapmonlaptrinh" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="nhungjavascript" type="462c0819:PsiDirectoryNode" />
+              <item name="bai1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="2Nhapmonlaptrinh" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="nhungjavascript" type="462c0819:PsiDirectoryNode" />
+              <item name="bai2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="2Nhapmonlaptrinh" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="nhungjavascript" type="462c0819:PsiDirectoryNode" />
+              <item name="bai3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="2Nhapmonlaptrinh" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="sudungpsedocodevaflowchar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
               <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap" type="462c0819:PsiDirectoryNode" />
+              <item name="bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap" type="462c0819:PsiDirectoryNode" />
+              <item name="bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="bai1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap" type="462c0819:PsiDirectoryNode" />
+              <item name="bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="bai2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap" type="462c0819:PsiDirectoryNode" />
+              <item name="bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="bai3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap" type="462c0819:PsiDirectoryNode" />
+              <item name="bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="bai4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap" type="462c0819:PsiDirectoryNode" />
+              <item name="doitien" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap" type="462c0819:PsiDirectoryNode" />
+              <item name="maytinh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="khaibaovasudungbien" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="khaibaovasudungbien" type="462c0819:PsiDirectoryNode" />
+              <item name="bai1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="khaibaovasudungbien" type="462c0819:PsiDirectoryNode" />
+              <item name="bai2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="3Bienkieudulieuvatoantu" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="sudungtoantu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="4Cautrucdieukien" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="4Cautrucdieukien" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="4Cautrucdieukien" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap" type="462c0819:PsiDirectoryNode" />
+              <item name="tinhcannag" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="4Cautrucdieukien" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="4Cautrucdieukien" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="luyentamswichcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="4Cautrucdieukien" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="luyentapifelseif" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="4Cautrucdieukien" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="luyentaptoantu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="4Cautrucdieukien" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="luyentapvsifelse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="4Cautrucdieukien" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="namnhuan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="4Cautrucdieukien" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="sukiemchuot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="4Cautrucdieukien" type="462c0819:PsiDirectoryNode" />
+              <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
+              <item name="sukienbanphim" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="CASESTUDY" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -223,22 +496,20 @@
       <option name="presentableId" value="Default" />
       <updated>1574821217480</updated>
       <workItem from="1574821218772" duration="774000" />
+      <workItem from="1575254512355" duration="62000" />
+      <workItem from="1575254597465" duration="85000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="774000" />
+    <option name="totallyTimeSpent" value="921000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="80" y="40" width="1400" height="796" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944974" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -246,6 +517,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -257,8 +532,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/module1/3Bienkieudulieuvatoantu/baitap/bienkieudulieuvatoantu/bai1/BAi1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="144">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
