@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6f96dd07-cc33-4aa3-86f7-0ce414ce922c" name="Default Changelist" comment="commit file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1/6Mang/baitap/sudungcachamcosan/bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/module1/6Mang/baitap/sudungcachamcosan/bai3.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,46 +20,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/taovathaotacvoimang.html">
+        <entry file="file://$PROJECT_DIR$/module1/6Mang/baitap/sudungcachamcosan/bai3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+            <state relative-caret-position="164">
+              <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/daonguoccacphantutrongmang.html">
+        <entry file="file://$PROJECT_DIR$/module1/6Mang/baitap/tudien/tudien.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            <state relative-caret-position="257">
+              <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/timgiatritrongmang.html">
+        <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/cocarodongia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state>
+              <caret selection-end-line="42" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/timgiatrilonnhattrongmang.html">
+        <entry file="file://$PROJECT_DIR$/module1/6Mang/baitap/tictactoe/tictactoe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+            <state relative-caret-position="341">
+              <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/cocarodongia.html">
+        <entry file="file://$PROJECT_DIR$/module1/6Mang/baitap/tictactoe/sdadsa.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+            <state relative-caret-position="317">
+              <caret line="98" column="46" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -105,11 +106,17 @@
         <option value="$PROJECT_DIR$/module1/5Cautruclap/baitap/luyentapvonglap2/bai3.html" />
         <option value="$PROJECT_DIR$/module1/5Cautruclap/baitap/luyentapvonglap2/bai5.html" />
         <option value="$PROJECT_DIR$/module1/5Cautruclap/baitap/luyentapvonglap2/bai6.html" />
-        <option value="$PROJECT_DIR$/module1/6Mang/thuchanh/taovathaotacvoimang.html" />
         <option value="$PROJECT_DIR$/module1/6Mang/thuchanh/daonguoccacphantutrongmang.html" />
         <option value="$PROJECT_DIR$/module1/6Mang/thuchanh/timgiatritrongmang.html" />
         <option value="$PROJECT_DIR$/module1/6Mang/thuchanh/timgiatrilonnhattrongmang.html" />
         <option value="$PROJECT_DIR$/module1/6Mang/thuchanh/cocarodongia.html" />
+        <option value="$PROJECT_DIR$/module1/6Mang/baitap/sudungcachamcosan/bai1.html" />
+        <option value="$PROJECT_DIR$/module1/6Mang/baitap/sudungcachamcosan/bai2.html" />
+        <option value="$PROJECT_DIR$/module1/6Mang/thuchanh/taovathaotacvoimang.html" />
+        <option value="$PROJECT_DIR$/module1/6Mang/baitap/sudungcachamcosan/bai3.html" />
+        <option value="$PROJECT_DIR$/module1/6Mang/baitap/tudien/tudien.html" />
+        <option value="$PROJECT_DIR$/module1/6Mang/baitap/tictactoe/tictactoe.html" />
+        <option value="$PROJECT_DIR$/module1/6Mang/baitap/tictactoe/sdadsa.html" />
       </list>
     </option>
   </component>
@@ -472,6 +479,21 @@
               <item name="Module1" type="462c0819:PsiDirectoryNode" />
               <item name="module1" type="462c0819:PsiDirectoryNode" />
               <item name="6Mang" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="6Mang" type="462c0819:PsiDirectoryNode" />
+              <item name="baitap" type="462c0819:PsiDirectoryNode" />
+              <item name="tictactoe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module1" type="462c0819:PsiDirectoryNode" />
+              <item name="module1" type="462c0819:PsiDirectoryNode" />
+              <item name="6Mang" type="462c0819:PsiDirectoryNode" />
               <item name="thuchanh" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -527,7 +549,7 @@
       <workItem from="1575273709423" duration="5765000" />
       <workItem from="1575337363513" duration="19745000" />
       <workItem from="1575387675570" duration="4683000" />
-      <workItem from="1575423844635" duration="24952000" />
+      <workItem from="1575423844635" duration="37447000" />
     </task>
     <task id="LOCAL-00001" summary="commit file">
       <created>1575254715849</created>
@@ -550,11 +572,25 @@
       <option name="project" value="LOCAL" />
       <updated>1575453423535</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit file">
+      <created>1575511986711</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575511986711</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit file">
+      <created>1575515213344</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575515213344</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69699000" />
+    <option name="totallyTimeSpent" value="82194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -839,38 +875,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/taovathaotacvoimang.html">
+    <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/timgiatritrongmang.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+        <state relative-caret-position="203">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/timgiatrilonnhattrongmang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/daonguoccacphantutrongmang.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/timgiatritrongmang.html">
+    <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/taovathaotacvoimang.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="163">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/timgiatrilonnhattrongmang.html">
+    <entry file="file://$PROJECT_DIR$/module1/6Mang/baitap/sudungcachamcosan/bai1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        <state relative-caret-position="168">
+          <caret line="7" column="33" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/6Mang/baitap/sudungcachamcosan/bai2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/6Mang/baitap/sudungcachamcosan/bai3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/6Mang/baitap/tudien/tudien.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module1/6Mang/thuchanh/cocarodongia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        <state>
+          <caret selection-end-line="42" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/6Mang/baitap/tictactoe/tictactoe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1/6Mang/baitap/tictactoe/sdadsa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="98" column="46" selection-start-line="98" selection-start-column="46" selection-end-line="98" selection-end-column="46" />
         </state>
       </provider>
     </entry>
