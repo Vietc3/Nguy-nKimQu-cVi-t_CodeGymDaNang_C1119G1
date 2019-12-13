@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>YeuCau5_Task1</title>
+</head>
+<body>
+<script>
+    let nameList = [];
+    function displayMainMenu() {
+        let menu = parseInt( prompt("1. Add New Customer." + '\n' +
+            "2. Display Information Customer." + '\n' +
+            "3. Edit Information Customer." + '\n' +
+            "4. Delete Customer." + '\n' +
+            "5. Exit."));
+        switch (menu) {
+            case 1:
+                addNewCustomer();
+                break;
+            case 2:
+                displayCustomers();
+            // break;
+            // default:
+            //     displayMainMenu();
+        }
+        displayMainMenu();
+    }
+    displayMainMenu();
+    // let nameList = [];
+    function addNewCustomer() {
+        let customerName = prompt("Please input your name: ");
+        let customerId = parseInt(prompt("Please input your identity number: "));
+        let birthDay = prompt("Please input your birthday: ");
+        let email = prompt("Please input your email: ");
+        let address = prompt("Please input your address");
+        let customerType = prompt("Please input your customer type (namely Diamond, Platinum, Gold, Silver, Member): ");
+        let discount = prompt("Please input your discount: ");
+        let accompany = prompt("How many people go together with you: ");
+        let duration = prompt("How many days you stay here:? ");
+        let serviceType = prompt("Please input your service type (namely Villa, House, Room) ");
+        let roomType = prompt("Please input your room type (namely Vip, Business, Normal): ");
+        nameList.push([customerName, customerId, birthDay, email, address, customerType, discount, accompany, duration, serviceType, roomType]);
+    }
+    function displayCustomers() {
+        let displayName = " ";
+        let display;
+        for (let i = 0; i < nameList.length; i++) {
+            // let displayName = " ";
+            displayName += (i+1) + "." + "Inputed Name "+ customerName[i][0] + ' ' + "Inputed ID " + customerId[i][1];
+        }
+        display = prompt(displayName + (nameList.length+1) + '.' + "Back to menu.");
+    }
+</script>
+</body>
+</html>
+
