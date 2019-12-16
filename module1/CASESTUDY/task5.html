@@ -7,6 +7,7 @@
 <body>
 <script>
     let arrLisNam = [];
+
     function addNewCustomname() {
         let nameCustomer = prompt("Enter Name Customer:");
         let idCard = prompt("Enter ID Card Customer:");
@@ -21,6 +22,7 @@
         let typeService = prompt("Enter Type Service:");
         arrLisNam.push([nameCustomer, idCard, birthdayCustomer, emailCustomer, addressCustomer, typeCustomer, discount, numberOfAccompanying, typeRoom, renDays, typeService]);
     }
+
     function displayCustomer() {
         let display = "";
         for (let i = 0; i < arrLisNam.length; i++) {
@@ -29,7 +31,7 @@
         let display2 = parseInt(prompt(display + (arrLisNam.length + 1) + ".Back to menu"));
         for (let i = 0; i < arrLisNam.length; i++) {
             if (display2 === (i + 1)) {
-              alert("Information Of Customer:\n" +
+                alert("Information Of Customer:\n" +
                     "1.Name:" + arrLisNam[i][0] +
                     "\n2.Id Card:" + arrLisNam[i][1] +
                     "\n3.BirthDay:" + arrLisNam[i][2] +
@@ -46,9 +48,65 @@
 
         }
     }
+
+    function editCustomer1() {
+        let display = "";
+        for (let i = 0; i < arrLisNam.length; i++) {
+            display += i + 1 + ".Name: " + arrLisNam[i][0] + ' ID Card: ' + arrLisNam[i][1] + '\n';
+        }
+        let display2 = parseInt(prompt(display + (arrLisNam.length + 1) + ".Back to menu"));
+while ( display2!=arrLisNam.length + 1) {
+            for (let i = 0; i < arrLisNam.length; i++) {
+                if (display2 === (i + 1)) {
+                    let edit = parseInt(prompt("1.Name:" + arrLisNam[i][0] +
+                        "\n2.Id Card:" + arrLisNam[i][1] +
+                        "\n3.BirthDay:" + arrLisNam[i][2] +
+                        "\n4.Email:" + arrLisNam[i][3] +
+                        "\n5.Address:" + arrLisNam[i][4] +
+                        "\n6.Type Customer:" + arrLisNam[i][5] +
+                        "\n7.Discount:" + arrLisNam[i][6] +
+                        "\n8.Accompanying:" + arrLisNam[i][7] +
+                        "\n9.Type Room:" + arrLisNam[i][8] +
+                        "\n10.Ren Days:" + arrLisNam[i][9] +
+                        "\n11.Type Service:" + arrLisNam[i][10] +
+                        "\n12.Back"));
+                   if (edit !== 12 && edit < 12) {
+                        arrLisNam[i][edit - 1] = prompt('Enter info you want change');
+                        break
+                    }
+                    else if(edit===12) {display2 = parseInt(prompt(display + (arrLisNam.length + 1) + ".Back to menu"));
+
+                }
+
+            }}
+
+        }
+    }
+
+    function deleteCustomer() {
+
+        let display = "";
+        for (let i = 0; i < arrLisNam.length; i++) {
+            display += i + 1 + ".Name: " + arrLisNam[i][0] + ' ID Card: ' + arrLisNam[i][1] + '\n';
+        }
+        let display2 = parseInt(prompt(display + (arrLisNam.length + 1) + ".Back to menu"));
+        let display4=parseInt(prompt('Are You Sure Delete'+'\n'+ 'Name'+ arrLisNam[display2][0]+'ID Card:'+ arrLisNam[display2][0]+'\n'+ '1.Yes'+'\n'+'2.No'));
+        let arrLisNam2 = [];
+        for (let i = 0; i < arrLisNam.length; i++) {
+
+            if (i + 1 === display2 && display4===1) {
+                alert('Delete Complete');
+                continue;
+            }
+            arrLisNam2.push(arrLisNam[i]);
+        }
+        arrLisNam = arrLisNam2;
+    }
+
+
     function displayMainMenu() {
         let menu = prompt('1.Add New Customer.' + '\n' +
-            ' 2.Display Information Customer.' + '\n' +
+            '2.Display Information Customer.' + '\n' +
             '3.Edit Information Customer.' + '\n' +
             '4.Delete Customer.' + '\n' +
             '5.Exit.');
@@ -57,7 +115,13 @@
                 addNewCustomname();
                 break;
             case 2:
-                displayCustomer()
+                displayCustomer();
+                break;
+            case 3:
+                editCustomer1();
+                break;
+            case 4:
+                deleteCustomer();
         }
         displayMainMenu();
     }
