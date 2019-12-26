@@ -6,7 +6,7 @@
 </head>
 <body>
 <script>
-    let arrLisNam = [];
+    let lisArray = [];
 
     function addNewCustomname() {
         let nameCustomer = prompt("Enter Name Customer:");
@@ -20,29 +20,29 @@
         let typeRoom = prompt("Enter Type Room:");
         let renDays = prompt("Enter Ren Days:");
         let typeService = prompt("Enter Type Service:");
-        arrLisNam.push([nameCustomer, idCard, birthdayCustomer, emailCustomer, addressCustomer, typeCustomer, discount, numberOfAccompanying, typeRoom, renDays, typeService]);
+        lisArray.push([nameCustomer, idCard, birthdayCustomer, emailCustomer, addressCustomer, typeCustomer, discount, numberOfAccompanying, typeRoom, renDays, typeService]);
     }
 
     function displayCustomer() {
         let display = "";
-        for (let i = 0; i < arrLisNam.length; i++) {
-            display += i + 1 + ".Name: " + arrLisNam[i][0] + ' ID Card: ' + arrLisNam[i][1] + '\n';
+        for (let i = 0; i < lisArray.length; i++) {
+            display += i + 1 + ".Name: " + lisArray[i][0] + ' ID Card: ' + lisArray[i][1] + '\n';
         }
-        let display2 = parseInt(prompt(display + (arrLisNam.length + 1) + ".Back to menu"));
-        for (let i = 0; i < arrLisNam.length; i++) {
+        let display2 = parseInt(prompt(display + (lisArray.length + 1) + ".Back to menu"));
+        for (let i = 0; i < lisArray.length; i++) {
             if (display2 === (i + 1)) {
                 alert("Information Of Customer:\n" +
-                    "1.Name:" + arrLisNam[i][0] +
-                    "\n2.Id Card:" + arrLisNam[i][1] +
-                    "\n3.BirthDay:" + arrLisNam[i][2] +
-                    "\n4.Email:" + arrLisNam[i][3] +
-                    "\n5.Address:" + arrLisNam[i][4] +
-                    "\n6.Type Customer:" + arrLisNam[i][5] +
-                    "\n7.Discount:" + arrLisNam[i][6] +
-                    "\n8.Accompanying:" + arrLisNam[i][7] +
-                    "\n9.Type Room:" + arrLisNam[i][8] +
-                    "\n10.Ren Days:" + arrLisNam[i][9] +
-                    "\n11.Type Service:" + arrLisNam[i][10]);
+                    "1.Name:" + lisArray[i][0] +
+                    "\n2.Id Card:" + lisArray[i][1] +
+                    "\n3.BirthDay:" + lisArray[i][2] +
+                    "\n4.Email:" + lisArray[i][3] +
+                    "\n5.Address:" + lisArray[i][4] +
+                    "\n6.Type Customer:" + lisArray[i][5] +
+                    "\n7.Discount:" + lisArray[i][6] +
+                    "\n8.Accompanying:" + lisArray[i][7] +
+                    "\n9.Type Room:" + lisArray[i][8] +
+                    "\n10.Ren Days:" + lisArray[i][9] +
+                    "\n11.Type Service:" + lisArray[i][10]);
                 break;
             }
 
@@ -51,30 +51,30 @@
 
     function editCustomer1() {
         let display = "";
-        for (let i = 0; i < arrLisNam.length; i++) {
-            display += i + 1 + ".Name: " + arrLisNam[i][0] + ' ID Card: ' + arrLisNam[i][1] + '\n';
+        for (let i = 0; i < lisArray.length; i++) {
+            display += i + 1 + ".Name: " + lisArray[i][0] + ' ID Card: ' + lisArray[i][1] + '\n';
         }
-        let display2 = parseInt(prompt(display + (arrLisNam.length + 1) + ".Back to menu"));
-while ( display2!=arrLisNam.length + 1) {
-            for (let i = 0; i < arrLisNam.length; i++) {
+        let display2 = parseInt(prompt(display + (lisArray.length + 1) + ".Back to menu"));
+while ( display2!=lisArray.length + 1) {
+            for (let i = 0; i < lisArray.length; i++) {
                 if (display2 === (i + 1)) {
-                    let edit = parseInt(prompt("1.Name:" + arrLisNam[i][0] +
-                        "\n2.Id Card:" + arrLisNam[i][1] +
-                        "\n3.BirthDay:" + arrLisNam[i][2] +
-                        "\n4.Email:" + arrLisNam[i][3] +
-                        "\n5.Address:" + arrLisNam[i][4] +
-                        "\n6.Type Customer:" + arrLisNam[i][5] +
-                        "\n7.Discount:" + arrLisNam[i][6] +
-                        "\n8.Accompanying:" + arrLisNam[i][7] +
-                        "\n9.Type Room:" + arrLisNam[i][8] +
-                        "\n10.Ren Days:" + arrLisNam[i][9] +
-                        "\n11.Type Service:" + arrLisNam[i][10] +
+                    let edit = parseInt(prompt("1.Name:" + lisArray[i][0] +
+                        "\n2.Id Card:" + lisArray[i][1] +
+                        "\n3.BirthDay:" + lisArray[i][2] +
+                        "\n4.Email:" + lisArray[i][3] +
+                        "\n5.Address:" + lisArray[i][4] +
+                        "\n6.Type Customer:" + lisArray[i][5] +
+                        "\n7.Discount:" + lisArray[i][6] +
+                        "\n8.Accompanying:" + lisArray[i][7] +
+                        "\n9.Type Room:" + lisArray[i][8] +
+                        "\n10.Ren Days:" + lisArray[i][9] +
+                        "\n11.Type Service:" + lisArray[i][10] +
                         "\n12.Back"));
                    if (edit !== 12 && edit < 12) {
-                        arrLisNam[i][edit - 1] = prompt('Enter info you want change');
+                        lisArray[i][edit - 1] = prompt('Enter info you want change');
                         break
                     }
-                    else if(edit===12) {display2 = parseInt(prompt(display + (arrLisNam.length + 1) + ".Back to menu"));
+                    else if(edit===12) {display2 = parseInt(prompt(display + (lisArray.length + 1) + ".Back to menu"));
 
                 }
 
@@ -86,21 +86,21 @@ while ( display2!=arrLisNam.length + 1) {
     function deleteCustomer() {
 
         let display = "";
-        for (let i = 0; i < arrLisNam.length; i++) {
-            display += i + 1 + ".Name: " + arrLisNam[i][0] + ' ID Card: ' + arrLisNam[i][1] + '\n';
+        for (let i = 0; i < lisArray.length; i++) {
+            display += i + 1 + ".Name: " + lisArray[i][0] + ' ID Card: ' + lisArray[i][1] + '\n';
         }
-        let display2 = parseInt(prompt(display + (arrLisNam.length + 1) + ".Back to menu"));
-        let display4=parseInt(prompt('Are You Sure Delete'+'\n'+ 'Name'+ arrLisNam[display2][0]+'ID Card:'+ arrLisNam[display2][0]+'\n'+ '1.Yes'+'\n'+'2.No'));
+        let display2 = parseInt(prompt(display + (lisArray.length + 1) + ".Back to menu"));
+        let display4=parseInt(prompt('Are You Sure Delete'+'\n'+ 'Name'+ lisArray[display2][0]+'ID Card:'+ lisArray[display2][0]+'\n'+ '1.Yes'+'\n'+'2.No'));
         let arrLisNam2 = [];
-        for (let i = 0; i < arrLisNam.length; i++) {
+        for (let i = 0; i < lisArray.length; i++) {
 
             if (i + 1 === display2 && display4===1) {
                 alert('Delete Complete');
                 continue;
             }
-            arrLisNam2.push(arrLisNam[i]);
+            arrLisNam2.push(lisArray[i]);
         }
-        arrLisNam = arrLisNam2;
+        lisArray = arrLisNam2;
     }
 
 
