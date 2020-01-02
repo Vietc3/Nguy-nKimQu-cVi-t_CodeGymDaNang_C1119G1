@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="355fc508-2181-4ccc-ac16-22ae8da024db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../module2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/.idea/module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../module2/ngonngujava/thuchanh/timkiemmang/helloword/helloword.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASESTUDY/task5.html" beforeDir="false" afterPath="$PROJECT_DIR$/CASESTUDY/task5.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Thimodule1/Câu4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
+            <state relative-caret-position="1176">
               <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
             </state>
           </provider>
@@ -55,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CASESTUDY/task6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6801">
-              <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+            <state relative-caret-position="552">
+              <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -148,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -224,6 +228,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -273,7 +278,8 @@
       <workItem from="1576719202715" duration="9664000" />
       <workItem from="1576749512212" duration="33277000" />
       <workItem from="1577065189595" duration="36854000" />
-      <workItem from="1577327614722" duration="1440000" />
+      <workItem from="1577327614722" duration="1855000" />
+      <workItem from="1577432662576" duration="435000" />
     </task>
     <task id="LOCAL-00001" summary="tuan3">
       <created>1576201804188</created>
@@ -324,16 +330,23 @@
       <option name="project" value="LOCAL" />
       <updated>1576747323225</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="END">
+      <created>1577333022456</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577333022457</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177009000" />
+    <option name="totallyTimeSpent" value="177859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1645737" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10707204" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -376,7 +389,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tuan3" />
-    <option name="LAST_COMMIT_MESSAGE" value="tuan3" />
+    <MESSAGE value="END" />
+    <option name="LAST_COMMIT_MESSAGE" value="END" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -680,6 +694,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Thimodule1/Câu4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/baitapolop/test1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -687,17 +708,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thimodule1/Câu4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CASESTUDY/task6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6801">
-          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="552">
+          <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
         </state>
       </provider>
     </entry>
