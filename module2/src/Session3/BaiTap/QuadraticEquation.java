@@ -44,7 +44,7 @@ public class QuadraticEquation {
         double b = scanner.nextDouble();
         System.out.print("Enter the numer c:");
         double c = scanner.nextDouble();
-        QuadraticEquation ptBacHai = new QuadraticEquation(a, b, b);
+        QuadraticEquation ptBacHai = new QuadraticEquation(a, b, c);
         double delta = ptBacHai.getDiscriminant();
         if (delta > 0) {
             System.out.println("Phương trình có 2 nghiệm là: " + ptBacHai.getRoot1() + " và " + ptBacHai.getRoot2());
