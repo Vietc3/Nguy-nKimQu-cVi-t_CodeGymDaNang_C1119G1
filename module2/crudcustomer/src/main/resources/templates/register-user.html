@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html xmlns:th="http://www.thymeleaf.org">
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -18,32 +18,33 @@
 			<div class="col-sm-12">
 				
 				<h2>Register</h2>
-				<form action="saveOrUpdate" method="post">
+				<form th:action="${ACTION}" th:object=${USER} method="post">
 					<div class="form-group">
 						<label>UserName</label> 
-						<input type="text" class="form-control" name="username" placeholder="Enter UserName" id="username" value="">
+						<input class="form-control" th:field="*{userName}"  placeholder="Enter UserName"
+							   type="text">
 					</div>
 					<div class="form-group">
 						<label>Password:</label> 
-						<input type="password"
-							class="form-control" name="password" placeholder="Enter password">
+						<input type="password" th:field="*{password}"
+							   class="form-control" name="password" placeholder="Enter password">
 					</div>
 					<div class="form-group">
 						<label>FullName</label> 
-						<input type="text" class="form-control" name="fullName" placeholder="Enter UserName" id="fullName" value="">
+						<input type="text" th:field="*{fullname}"  class="form-control" name="fullName" placeholder="Enter UserName" id="fullName" value="">
 					</div>
 					<div class="form-group">
 						<label>Age</label> 
-						<input type="number" class="form-control" name="age" placeholder="Enter age" id="age" value="0">
+						<input type="number" th:field="*{age}"  class="form-control" name="age" placeholder="Enter age" id="age" value="0">
 					</div>
 					<div class="form-group">
 						<label>Gender</label>
 						<div class="radio">
 							<!--value = 1 => Nam| 0 =>Nu -->
 							<label class="checkbox-inline">
-							<input type="radio" name="gender" value="1" id="gender1">Male</label> 
+							<input type="radio" th:field="*{gender}"  name="gender" value="1" id="gender1">Male</label>
 							<label class="checkbox-inline">
-							<input type="radio" name="gender" checked="checked" value="0" id="gender2">Female</label>
+							<input type="radio" th:field="*{gender}"  name="gender" checked="checked" value="0" id="gender2">Female</label>
 						</div>
 					</div>
 					<button type="submit" class="btn btn-primary">Save</button>
