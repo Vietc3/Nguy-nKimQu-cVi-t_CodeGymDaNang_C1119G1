@@ -27,6 +27,7 @@ public class Contact {
     @Column(name = "email")
     private String email;
 
+    @NotEmpty
     @Column(name = "phone")
     private String phone;
 

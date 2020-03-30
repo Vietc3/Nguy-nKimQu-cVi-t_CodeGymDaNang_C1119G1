@@ -2,15 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="355fc508-2181-4ccc-ac16-22ae8da024db" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../module2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module2/.idea/libraries/org_apache_commons_commons_csv_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../module2/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/entity/CustomerEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/entity/CustomerEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/customerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/customerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/customerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/customerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/customerServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/customerServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/resources/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/resources/static/css/11.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/resources/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/resources/templates/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/resources/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/resources/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/resources/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyModule2/TASK2/src/main/resources/templates/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module2/Module23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/Module23.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module2/out/production/Module23/Session3/BaiTap/QuadraticEquation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/out/production/Module23/Session3/BaiTap/QuadraticEquation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module2/out/production/Module23/Session3/BaiTap/StopWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/out/production/Module23/Session3/BaiTap/StopWatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module2/src/Session3/BaiTap/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/src/Session3/BaiTap/QuadraticEquation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module2/src/Session3/BaiTap/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/src/Session3/BaiTap/StopWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/JavaMVCWeb" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/JavaMVCWeb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/casestudy/src/main/resources/templates/RegisterAndLogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/casestudy/src/main/resources/templates/RegisterAndLogin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/java-web-mvc1" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/java-web-mvc1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/mycontact-mpa.rar" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/mycontact-mpa.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/mycontact-mpa/src/main/java/org/ashina/mycontact/entity/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/mycontact-mpa/src/main/java/org/ashina/mycontact/entity/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/mycontact-mpa/src/main/java/org/ashina/mycontact/repository/ContactRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/mycontact-mpa/src/main/java/org/ashina/mycontact/repository/ContactRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/mycontact-mpa/src/main/java/org/ashina/mycontact/service/ContactService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/mycontact-mpa/src/main/java/org/ashina/mycontact/service/ContactService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module2/mycontact-mpa/src/main/java/org/ashina/mycontact/service/ContactServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../module2/mycontact-mpa/src/main/java/org/ashina/mycontact/service/ContactServiceImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,18 +34,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CASESTUDY/task6.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baitapolop/baitapcustomer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
+            <state relative-caret-position="1032">
               <caret line="43" column="6" selection-start-line="43" selection-end-line="43" selection-end-column="6" />
             </state>
           </provider>
@@ -53,7 +54,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CASESTUDY/tash4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-387">
+            <state relative-caret-position="432">
               <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
             </state>
           </provider>
@@ -62,7 +63,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CASESTUDY/Tash3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1383">
+            <state relative-caret-position="648">
               <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
             </state>
           </provider>
@@ -71,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CASESTUDY/Task2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
+            <state relative-caret-position="5856">
               <caret line="244" selection-start-line="244" selection-end-line="244" />
             </state>
           </provider>
@@ -86,11 +87,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10.xulichuoi/baitap/validatemail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="68" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="68" />
+            <state relative-caret-position="269">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="79" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -181,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="20" />
     <option name="width" value="1280" />
     <option name="height" value="730" />
@@ -192,7 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,6 +240,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,6 +295,8 @@
       <workItem from="1578543275338" duration="1392000" />
       <workItem from="1578638188133" duration="41000" />
       <workItem from="1578991079822" duration="425000" />
+      <workItem from="1584433980997" duration="19000" />
+      <workItem from="1584955527064" duration="127000" />
     </task>
     <task id="LOCAL-00001" summary="tuan3">
       <created>1576201804188</created>
@@ -346,10 +358,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179717000" />
+    <option name="totallyTimeSpent" value="179863000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18572372" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -409,13 +421,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/codegym2/run.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/baitapolop/employee2.html" />
     <entry file="file://$PROJECT_DIR$/baitapolop/employee2.js" />
     <entry file="file://$PROJECT_DIR$/baitapolop/employee.js" />
@@ -650,38 +655,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baitapolop/mangdoixung.html">
+    <entry file="file://$PROJECT_DIR$/CASESTUDY/task6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="912">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baitapolop/baitapcustomer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
+        <state relative-caret-position="1032">
           <caret line="43" column="6" selection-start-line="43" selection-end-line="43" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CASESTUDY/tash4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-387">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CASESTUDY/Tash3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1383">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CASESTUDY/task6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -692,9 +676,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CASESTUDY/tash4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CASESTUDY/Tash3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CASESTUDY/Task2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
+        <state relative-caret-position="5856">
           <caret line="244" selection-start-line="244" selection-end-line="244" />
         </state>
       </provider>
@@ -713,10 +711,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/baitapolop/mangdoixung.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/10.xulichuoi/baitap/validatemail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="68" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="68" />
+        <state relative-caret-position="269">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="79" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
         </state>
       </provider>
     </entry>

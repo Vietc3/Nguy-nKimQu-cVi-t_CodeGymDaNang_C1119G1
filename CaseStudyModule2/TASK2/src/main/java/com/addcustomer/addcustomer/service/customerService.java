@@ -1,16 +1,22 @@
 package com.addcustomer.addcustomer.service;
 
 import com.addcustomer.addcustomer.entity.CustomerEntity;
-import org.springframework.stereotype.Service;
+import org.springframework.data.domain.*;
 
 import java.util.List;
 import java.util.Optional;
 
 public interface customerService {
 
-    List<CustomerEntity> search(String name);
+
+    Page<CustomerEntity> findByNameCustomerContaining(String name, Pageable pageable);
+
+    Page<CustomerEntity> findAll(Pageable pageable);
 
     CustomerEntity save(CustomerEntity entity);
+
+    //
+    abstract List<CustomerEntity> search(String name);
 
     List<CustomerEntity> saveAll(List<CustomerEntity> entities);
 

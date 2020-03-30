@@ -12,9 +12,9 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
           integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <!-- Custom style -->
-    <link href="../assets/css/style.css" rel="stylesheet"/>
-    <link href="../../static/css/style.css"
-          th:href="@{/static/css/style.css}" rel="stylesheet"/>
+
+    <link href="../static/css/11.css"
+          th:href="@{/static/css/11.css}" rel="stylesheet"/>
 </head>
 <style>
 
@@ -30,7 +30,8 @@
             <h5 class="text-center">Contact form</h5>
             <input type="hidden" th:field="*{idCustomer}" />
             <div class="form-group">
-                <input class="form-control" th:field="*{nameCustomer}" type="text" placeholder="Contact name"/>
+                <input class="form-control" th:field="*{nameCustomer}"  th:errorclass="field-error" type="text" placeholder="Contact name"/>
+                <em th:if="${#fields.hasErrors('nameCustomer')}" th:errors="*{nameCustomer}"></em>
             </div>
 <!--            <div class="form-group">-->
 <!--                <input class="form-control" th:field="*{idTypeCustomer}" type="number"-->
@@ -63,7 +64,8 @@
             </div>
 
             <div class="form-group">
-                <input class="form-control" th:field="*{numberCustomer}" type="text" placeholder="Contact phone"/>
+                <input class="form-control" th:field="*{numberCustomer}"  th:errorclass="field-error" type="text" placeholder="Contact phone"/>
+                <em th:if="${#fields.hasErrors('numberCustomer')}" th:errors="*{numberCustomer}"></em>
             </div>
 
             <div class="form-group">

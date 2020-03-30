@@ -3,6 +3,7 @@ package com.addcustomer.addcustomer.entity;
 import org.springframework.format.annotation.DateTimeFormat;
 
 import javax.persistence.*;
+import javax.validation.constraints.NotEmpty;
 import java.util.Date;
 
 @Entity
@@ -10,24 +11,32 @@ import java.util.Date;
 public class CustomerEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    @Column(name = "IDKhachHang", nullable = false,length = 50)
+    @Column(name = "IDKhachHang", nullable = false, length = 50)
     private Integer idCustomer;
-    @Column(name = "SoCMND",length = 50)
+
+    @Column(name = "SoCMND", length = 50)
     private String passportCustomer;
-    @Column(name = "IDLoaiKhach",length = 50)
+
+    @Column(name = "IDLoaiKhach", length = 50)
     private Integer idTypeCustomer;
-    @Column(name = "NgaySinh",length = 50)
+
+    @Column(name = "NgaySinh", length = 50)
+
     @DateTimeFormat(pattern = "yyyy-MM-dd")
     @Temporal(TemporalType.DATE)
     private Date dayOfBirthCustomer;
 
-
+    @NotEmpty
     @Column(name = "SDT", length = 50)
     private String numberCustomer;
+
     @Column(name = "Email", length = 50)
     private String emailCustomer;
-    @Column(name = "DiaChi",length = 50)
+
+    @Column(name = "DiaChi", length = 50)
     private String addressCustomer;
+
+    @NotEmpty
     @Column(name = "HoVaTen", length = 50)
     private String nameCustomer;
 

@@ -6,7 +6,7 @@
     <title>This is a WebPage using Bootstrap 4</title>
     <!-- Import Boostrap css, js, font awesome here -->
 
-    <link href="css/StyleRegisterLogin.css" rel="stylesheet">
+    <link th:href="@{css/StyleRegisterLogin.css}" rel="stylesheet">
 </head>
 <style>
     body {
@@ -25,13 +25,14 @@
             <button type="button" class="toggle-button" onclick="Register()">Register</button>
         </div>
         <div class="social-icon">
-            <img src="RegisterLogin/fb.png">
-            <img src="RegisterLogin/gp.png">
-            <img src="RegisterLogin/tw.png">
+            <img th:src="@{RegisterLogin/fb.png}">
+            <img th:src="@{RegisterLogin/gp.png}">
+            <img th:src="@{RegisterLogin/tw.png}">
         </div>
         <form id="login" class="input-group">
-            <input type="text" class="input-field" placeholder="User ID" required>
-            <input type="text" class="input-field" placeholder="Enter Password" required>
+            <input type="text" class="input-field" placeholder="Title" required>
+            <input type="text" class="input-field" placeholder="First Name" required>
+            <input type="text" class="input-field" placeholder="Last Name" required>
             <input type="checkbox" class="check-box"> <span> Remember Password</span>
             <button type="submit" class="submit-btn">Login</button>
         </form>

@@ -5,6 +5,9 @@ import com.addcustomer.addcustomer.entity.CustomerEntity;
 import com.addcustomer.addcustomer.repostitories.customerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
+
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;
@@ -15,14 +18,21 @@ import java.util.Optional;
 @Service
 @Transactional
 public class customerServiceImp implements customerService {
+    @Override
+    public Page<CustomerEntity> findByNameCustomerContaining(String name, Pageable pageable) {
+        return customerRepository.findByNameCustomerContaining(name, pageable);
+    }
 
-
+    @Override
+    public Page<CustomerEntity> findAll(Pageable pageable) {
+        return customerRepository.findAll(pageable);
+    }
 
     @Override
     public CustomerEntity save(CustomerEntity entity) {
         return customerRepository.save(entity);
     }
-//
+    //
     @Override
     public List<CustomerEntity> search(String name) {
         return customerRepository.findByNameCustomerContaining(name);
