@@ -2,10 +2,169 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f96dd07-cc33-4aa3-86f7-0ce414ce922c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Module1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Module1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/Domain/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/Domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/Pagination/Pager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/config/DataSeeding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/config/ValidateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/config/sercurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/controller/SercurityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/controller/ServiceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/entity/ServiceEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/entity/idTypeRent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/entity/idTypeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/idTypeRentReponsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/idTypeServiceReponsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/serviceReponsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/UserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/UserDetailsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/iDTypeServiceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/idTypeRentImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/idTypeRentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/idTypeServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/serviceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/serviceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/messages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/RegisterLogin/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/RegisterLogin/fb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/RegisterLogin/gp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/RegisterLogin/tw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/css/StyleRegisterLogin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/css/styleHome11.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/javascrip/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/213213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/c2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/dsadsa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/images0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/images1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/images2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/images3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/logo.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/logochuan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/logovip.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/logovip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/logovip1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/rsz_2carousel0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/sadsa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/displayService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/formService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/loginAndRegister.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/addcustomer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/addcustomer/.idea/addcustomer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/addcustomer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/addcustomer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/addcustomer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQueryExamplePopUp.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQueryExamplePopUp.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/JavaMVCWeb/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/Product-Manager" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/SpringBoot-Registration-Login-ThePerfectExample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/SpringBoot-with-Pagination" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/Controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/Entity/CustomerEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/Pagination/Pager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/Repository/customerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/Service/customerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/Service/customerServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/static/css/3131.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/static/css/StyleRegisterLogin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/static/css/styleHome11.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/static/javascrip/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/templates/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/templates/form1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/test/java/com/testmodule2/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/java-web-mvc1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/responsive-grid-example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/spring-boot-form-validation-example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/spring-boot-form-validation-example3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module2/spring-thymeleaf-pagination" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/src/main/java/com/module3/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/src/main/java/com/module3/demo/demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/src/main/java/com/module3/demo/demo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/CSS/BaiTap/DocTruyen/DocTruyen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/CSS/ThucHanh/BoCucCoBan/BoCuc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/CSS/ThucHanh/BoCucCoBan/BoCucCoBan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/CSS/ThucHanh/FixedHeaderAndFixedFooter/FixedHeaderAndFixedFooter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/CSS/ThucHanh/FixedHeaderAndFixedFooter/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/Udemy/WebMixedClone/CSS/CSSReset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/Udemy/WebMixedClone/CSS/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/Udemy/WebMixedClone/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module3/src/test/java/com/module3/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/demo2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/demo2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/entity/CustomerEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/entity/CustomerEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/customerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/customerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/customerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/customerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/customerServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/customerServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/JavaMVCWeb" beforeDir="false" afterPath="$PROJECT_DIR$/module2/JavaMVCWeb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/JavaMVCWeb/.idea/artifacts/java_web_mvc_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/JavaMVCWeb/.idea/artifacts/java_web_mvc_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/JavaMVCWeb/java-web-mvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/JavaMVCWeb/java-web-mvc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/SpringBoot-with-Pagination/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/module2/SpringBoot-with-Pagination/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/SpringBoot-with-Pagination/target/classes/com/example/Pagination/JDBC/Dao/RotationProducts.class" beforeDir="false" afterPath="$PROJECT_DIR$/module2/SpringBoot-with-Pagination/target/classes/com/example/Pagination/JDBC/Dao/RotationProducts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/casestudy/src/main/resources/templates/RegisterAndLogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/module2/casestudy/src/main/resources/templates/RegisterAndLogin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/java-web-mvc1" beforeDir="false" afterPath="$PROJECT_DIR$/module2/java-web-mvc1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/java-web-mvc1/java-web-mvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/java-web-mvc1/java-web-mvc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa.rar" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/controller/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/controller/ContactController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/entity/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/entity/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/repository/ContactRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/repository/ContactRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/service/ContactService.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/service/ContactService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/service/ContactServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/service/ContactServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/resources/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/resources/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/spring-boot-learning/spring-boot-jpa-auditing/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/module2/spring-boot-learning/spring-boot-jpa-auditing/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/spring-thymeleaf-pagination/src/main/resources/templates/persons.html" beforeDir="false" afterPath="$PROJECT_DIR$/module2/spring-thymeleaf-pagination/src/main/resources/templates/persons.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,18 +177,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="100" />
-    <option name="y" value="50" />
-    <option name="width" value="1750" />
-    <option name="height" value="995" />
   </component>
   <component name="ProjectId" id="1Vh7K8tKMOmvaK8oghUO7o24egH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -41,16 +196,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowFavorites.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TranMinhTrieu" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunManager">
     <configuration name="docSoTuNhien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -66,11 +223,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.docSoTuNhien" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -111,6 +263,8 @@
       <workItem from="1576027233433" duration="13560000" />
       <workItem from="1576115957557" duration="320000" />
       <workItem from="1577693411473" duration="434000" />
+      <workItem from="1585449620643" duration="10724000" />
+      <workItem from="1585475429764" duration="134000" />
     </task>
     <task id="LOCAL-00001" summary="commit file">
       <created>1575254715849</created>
@@ -194,6 +348,15 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/typeScript/firstTypeScript/main.js" />
+        <option value="$PROJECT_DIR$/typeScript/DeclaringVariables/main.js" />
+        <option value="$PROJECT_DIR$/typeScript/ArrowFunction/main.js" />
+        <option value="$PROJECT_DIR$/typeScript/Classes/main.js" />
+        <option value="$PROJECT_DIR$/typeScript/Classes/inheritance.js" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit file" />
@@ -212,6 +375,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="349" y="73" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1536.834@0.0.1536.834" timestamp="1577693442604" />
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1585475562442">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1585475562442" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1585452137381">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1585452137381" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1585464391791">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1585464391791" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

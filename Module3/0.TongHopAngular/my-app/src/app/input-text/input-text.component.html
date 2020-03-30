@@ -1,0 +1,71 @@
+<!--<input placeholder="Enter username" (keyup)="showEvent($event)">;-->
+
+<!--&gt;>>>>>>>>Two way binding<<<<<<<<<<<<<<-->
+<!--<input placeholder="Enter username" [(ngModel)]="name">-->
+
+<!-- >>>>>>>Template reference variable<<<<<<<<<<<-->
+<!--<input placeholder="Enter username" [(ngModel)]="name" #txtUsername>-->
+<!--<h3>your name is: {{name}}</h3>-->
+<!--<code>{{txtUsername.value | json}}</code>-->
+
+
+<!--&gt;>>>>>>>>>>Stype binding<<<<<<<<<<<-->
+<!--<input placeholder="Enter username" [(ngModel)]="name" >-->
+<!--<h3 [style.color]="name.length % 2 === 0 ? 'red' : 'black'">your name is: {{name}}</h3>-->
+
+
+<!--&gt;>>>>>>classbinding<<<<<<<<<<<<<-->
+<!--<div [className]="isHighlight ? 'circle' : 'square'"></div>-->
+
+
+
+<!--&gt;>>>>>>>>>>AttributeDirective:ngClass,ngStype<<<<<<<-->
+
+<!--<input placeholder="Enter username" [(ngModel)]="name">-->
+<!--<h3 [ngStyle]="{color: 'red',fontSize: '30px'}" >your name is: {{name}}</h3>-->
+
+<!--&gt;>>>>>>StructuralDirective:ngif,ngFor<<<<<<-->
+<!--<p *ngIf="isShow">struct works!</p>-->
+<!--<button (click)="isShow = !isShow">Toggle</button>-->
+
+>>>>>ngFor voi mang string<<<<<<<<br>
+<!--<p *ngIf="isShow">struct works!</p>-->
+<!--<ul>-->
+<!--  <li *ngFor="let subject of arrSubjects">-->
+<!--    <p>{{ 'subject ' + subject }}</p>-->
+<!--  </li>-->
+<!--</ul>-->
+<!--<button (click)="isShow = !isShow">Toggle</button>-->
+>>>>>ngFor voi mang javascriptObject<<<<<<<<br>
+<!--<div *ngFor="let word of arrWords">-->
+<!--  <h4 [ngStyle]="{ color: word.memorized ? 'red' : 'green' }">{{ word.en }}</h4>-->
+<!--  <p>{{ word.vn }}</p>-->
+<!--</div>-->
+>>>>>>>>>>them phan tu vao mang kep hop ngFor<<<<<<<<<br>
+>>>>>>>>>>xoa phan tu trong mang kep hop ngFor<<<<<<<<<br>
+>>>>>>>>>>loc mang hien thi trong mang kep hop ngFor<<<<<<<<<br>
+>>>>>>>>>>thay doi trang thai trong mang trong mang hien thi<<<<<<<<<br>
+<div *ngIf="isShow">
+<input  placeholder="English" [(ngModel)]="newEn" ><br>
+<input  placeholder="VietNam" [(ngModel)]="newVn" ><br>
+  <button (click)="addWord()">Them tu moi</button>
+</div>
+  <br><br>
+
+<button (click)="isShow = true" *ngIf="!isShow">Hien thi form nhap</button>
+<br><br>
+<select [(ngModel)]="filterStatus">
+  <option value="Xem_tat_ca">Xem tat ca</option>
+  <option value="Xem_da_nho">Xem da nho</option>
+  <option value="Xem_chua_nho">Xem chua nho</option>
+</select>
+
+<div *ngFor="let word of arrWords" >
+  <div class="word" *ngIf="getShowStatus(word.memorized)">
+  <h4 [ngStyle]="{ color: word.memorized ? 'green' : 'red' }">{{ word.en }}</h4>
+  <p>{{ word.vn }}</p>
+  <button (click)="removeWord(word.id)">xoa</button>
+  <button (click)="word.memorized = !word.memorized">{{word.memorized ? 'chưa thuộc' : 'đã thuộc'}}</button>
+  </div>
+</div>
+
