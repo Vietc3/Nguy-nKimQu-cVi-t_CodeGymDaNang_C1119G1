@@ -2,160 +2,309 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f96dd07-cc33-4aa3-86f7-0ce414ce922c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/Domain/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/Domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/Pagination/Pager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/config/DataSeeding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/config/ValidateConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/config/sercurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/controller/SercurityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/controller/ServiceController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/entity/ServiceEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/entity/idTypeRent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/entity/idTypeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/idTypeRentReponsitory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/idTypeServiceReponsitory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/serviceReponsitory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/UserDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/UserDetailsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/iDTypeServiceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/idTypeRentImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/idTypeRentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/idTypeServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/serviceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/serviceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/RegisterLogin/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/RegisterLogin/fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/RegisterLogin/gp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/RegisterLogin/tw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/css/StyleRegisterLogin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/css/styleHome11.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/javascrip/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/213213.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/c1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/c2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/carousel9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/dsadsa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/images0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/images1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/images2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/images3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/logo.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/logochuan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/logovip.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/logovip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/logovip1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/rsz_2carousel0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/static/logo/sadsa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/403.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/displayService.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/formService.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/loginAndRegister.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/addcustomer/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/addcustomer/.idea/addcustomer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/addcustomer/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/addcustomer/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CaseStudyModule2/addcustomer/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQueryExamplePopUp.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQueryExamplePopUp.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/module2/JavaMVCWeb/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/Product-Manager" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/SpringBoot-Registration-Login-ThePerfectExample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/SpringBoot-with-Pagination" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/Controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/Entity/CustomerEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/Pagination/Pager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/Repository/customerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/Service/customerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/java/com/testmodule2/demo/Service/customerServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/static/css/3131.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/static/css/StyleRegisterLogin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/static/css/styleHome11.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/static/javascrip/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/templates/delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/templates/form1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/main/resources/templates/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/TESTMODULE2/src/test/java/com/testmodule2/demo/DemoApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/module2/java-web-mvc1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/responsive-grid-example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/spring-boot-form-validation-example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/spring-boot-form-validation-example3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module2/spring-thymeleaf-pagination" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/src/main/java/com/module3/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/src/main/java/com/module3/demo/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/src/main/java/com/module3/demo/demo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/CSS/BaiTap/DocTruyen/DocTruyen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/CSS/ThucHanh/BoCucCoBan/BoCuc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/CSS/ThucHanh/BoCucCoBan/BoCucCoBan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/CSS/ThucHanh/FixedHeaderAndFixedFooter/FixedHeaderAndFixedFooter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/CSS/ThucHanh/FixedHeaderAndFixedFooter/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/Udemy/WebMixedClone/CSS/CSSReset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/Udemy/WebMixedClone/CSS/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/src/main/resources/templates/Udemy/WebMixedClone/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module3/src/test/java/com/module3/demo/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/demo2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/demo2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/controller/CustomerController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/entity/CustomerEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/entity/CustomerEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/customerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/repostitories/customerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/customerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/customerService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/customerServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/java/com/addcustomer/addcustomer/service/customerServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/CaseStudyModule2/TASK2/src/main/resources/templates/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/.idea/0.TongHopAngular.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/child/child.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/child/child.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/child/child.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/child/child.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/input-text/input-text.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/input-text/input-text.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/input-text/input-text.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/input-text/input-text.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/list-person/list-person.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/list-person/list-person.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/list-person/list-person.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/list-person/list-person.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/parent/parent.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/parent/parent.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/parent/parent.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/parent/parent.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/person/person.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/person/person.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/person/person.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/person/person.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/viewchild-pipe/viewchild-pipe.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/viewchild-pipe/viewchild-pipe.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/viewchild-pipe/viewchild-pipe.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/app/viewchild-pipe/viewchild-pipe.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/0.TongHopAngular/my-app/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/.idea/Bookstrap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/.idea/Bookstrap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/bootstrap-4.4.1-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Bookstrap/stype.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Bookstrap/stype.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/.idea/artifacts/Demo_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/.idea/artifacts/Demo_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/Demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/css/154006-mua-hang-qua-mang3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/css/154006-mua-hang-qua-mang3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/css/iphone-11-pro-max.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/css/iphone-11-pro-max.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/css/shopping_cart.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/css/shopping_cart.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/css/stype.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/css/stype.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/src/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/src/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/Demo/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/Demo/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoGellaryDungBooksTrap/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoGellaryDungBooksTrap/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoGellaryDungBooksTrap/.idea/artifacts/TaoGellaryDungBooksTrap_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoGellaryDungBooksTrap/.idea/artifacts/TaoGellaryDungBooksTrap_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoGellaryDungBooksTrap/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoGellaryDungBooksTrap/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoGellaryDungBooksTrap/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoGellaryDungBooksTrap/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoGellaryDungBooksTrap/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoGellaryDungBooksTrap/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoGellaryDungBooksTrap/TaoGellaryDungBooksTrap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoGellaryDungBooksTrap/TaoGellaryDungBooksTrap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoGellaryDungBooksTrap/src/css/stype.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoGellaryDungBooksTrap/src/css/stype.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoGellaryDungBooksTrap/src/img/154006-mua-hang-qua-mang3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoGellaryDungBooksTrap/src/img/154006-mua-hang-qua-mang3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoGellaryDungBooksTrap/src/img/iphone-11-pro-max.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoGellaryDungBooksTrap/src/img/iphone-11-pro-max.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoGellaryDungBooksTrap/src/img/shopping_cart.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoGellaryDungBooksTrap/src/img/shopping_cart.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoGellaryDungBooksTrap/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoGellaryDungBooksTrap/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoGellaryDungBooksTrap/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoGellaryDungBooksTrap/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoGellaryDungBooksTrap/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoGellaryDungBooksTrap/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/.idea/artifacts/TaoLandingPageBangBooksTrap_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/.idea/artifacts/TaoLandingPageBangBooksTrap_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/TaoLandingPageBangBooksTrap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/TaoLandingPageBangBooksTrap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/src/css/stype.css" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/src/css/stype.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/src/img/154006-mua-hang-qua-mang3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/src/img/154006-mua-hang-qua-mang3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/src/img/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/src/img/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/src/img/abc.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/src/img/abc.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/src/img/danhgiaweb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/src/img/danhgiaweb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/src/img/design.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/src/img/design.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/src/img/dribbble.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/src/img/dribbble.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/src/img/shopping_cart.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/src/img/shopping_cart.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/src/img/social.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/src/img/social.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/src/img/source.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/src/img/source.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/src/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/src/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/TaoLandingPageBangBooksTrap/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/TaoLandingPageBangBooksTrap/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/demo1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/demo1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/demo1/.idea/artifacts/demo1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/demo1/.idea/artifacts/demo1_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/demo1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/demo1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/demo1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/demo1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/demo1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/demo1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/demo1/demo1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/demo1/demo1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/demo1/src/dadd.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/demo1/src/dadd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/demo1/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/demo1/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/2.BooksTrap/demo1/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/2. bootstrap/demo1/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/calculator/calculator.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/calculator/calculator.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/calculator/calculator.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/calculator/calculator.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/color/color.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/color/color.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/color/color.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/color/color.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/font-size-editor/font-size-editor.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/font-size-editor/font-size-editor.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/font-size-editor/font-size-editor.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/font-size-editor/font-size-editor.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/pet/pet.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/pet/pet.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/pet/pet.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/app/pet/pet.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/5.AngularOverwing/leeson01/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/.firebaserc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/firebase.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/cart.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/cart/cart.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/cart/cart.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/cart/cart.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/npn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/others-product/others-product.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/others-product/others-product.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/others-product/others-product.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/others-product/others-product.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/product-alerts/product-alerts.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/product-alerts/product-alerts.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/product-alerts/product-alerts.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/product-details/product-details.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/product-details/product-details.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/product-details/product-details.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/product-list/product-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/product-list/product-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/product-list/product-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/products.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/profile/profile.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/profile/profile.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/profile/profile.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/profile/profile.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/top-bar/top-bar.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/top-bar/top-bar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/top-bar/top-bar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/user/user.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/user/user.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/user/user.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/app/user/user.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/assets/shipping.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAGLOverwing/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/BaiTapAngularOverwing.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/Slide 01 - CSS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/Slide 02 - Bootstrap.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/Slide 03 - JQuery.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/Slide 04 - Typescript.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/Slide 05 - Angular overview.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/Slide 06 - Angular component  template.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/Slide 07 - Angular form.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/Slide 08 - Service  router.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/Slide 09 -  Modules  Dependence Injection.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/Slide 10 - Connect to Backend.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/demo/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/demo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/demo/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/demo/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/demo/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/demo/src/main/java/aa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/SlideModule3/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/Trainning Angular/AngularComponent/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/Trainning Angular/AngularComponent/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/Trainning Angular/AngularComponent/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/Trainning Angular/AngularComponent/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/Trainning Angular/AngularComponent/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/Trainning Angular/AngularComponent/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/Trainning Angular/AngularComponent/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/Trainning Angular/AngularComponent/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/JavaMVCWeb" beforeDir="false" afterPath="$PROJECT_DIR$/module2/JavaMVCWeb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/JavaMVCWeb/.idea/artifacts/java_web_mvc_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/JavaMVCWeb/.idea/artifacts/java_web_mvc_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/JavaMVCWeb/java-web-mvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/JavaMVCWeb/java-web-mvc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/SpringBoot-with-Pagination" beforeDir="false" afterPath="$PROJECT_DIR$/module2/SpringBoot-with-Pagination" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/SpringBoot-with-Pagination/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/module2/SpringBoot-with-Pagination/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/SpringBoot-with-Pagination/target/classes/com/example/Pagination/JDBC/Dao/RotationProducts.class" beforeDir="false" afterPath="$PROJECT_DIR$/module2/SpringBoot-with-Pagination/target/classes/com/example/Pagination/JDBC/Dao/RotationProducts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/casestudy/src/main/resources/static/RegisterLogin/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/module2/casestudy/src/main/resources/templates/banner.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/casestudy/src/main/resources/templates/RegisterAndLogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/module2/casestudy/src/main/resources/templates/RegisterAndLogin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/casestudy/src/main/resources/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/module2/casestudy/src/main/resources/templates/layout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/java-web-mvc1" beforeDir="false" afterPath="$PROJECT_DIR$/module2/java-web-mvc1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/java-web-mvc1/java-web-mvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/module2/java-web-mvc1/java-web-mvc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa.rar" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa.rar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/controller/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/controller/ContactController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/entity/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/entity/Contact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/repository/ContactRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/java/org/ashina/mycontact/repository/ContactRepository.java" afterDir="false" />
@@ -164,6 +313,7 @@
       <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/resources/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/module2/mycontact-mpa/src/main/resources/templates/layout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/spring-boot-learning/spring-boot-jpa-auditing/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/module2/spring-boot-learning/spring-boot-jpa-auditing/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2/spring-thymeleaf-pagination" beforeDir="false" afterPath="$PROJECT_DIR$/module2/spring-thymeleaf-pagination" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/module2/spring-thymeleaf-pagination/src/main/resources/templates/persons.html" beforeDir="false" afterPath="$PROJECT_DIR$/module2/spring-thymeleaf-pagination/src/main/resources/templates/persons.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,7 +351,7 @@
     <property name="ToolWindowFavorites.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TranMinhTrieu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AngularCS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -265,6 +415,7 @@
       <workItem from="1577693411473" duration="434000" />
       <workItem from="1585449620643" duration="10724000" />
       <workItem from="1585475429764" duration="134000" />
+      <workItem from="1585988741156" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="commit file">
       <created>1575254715849</created>
@@ -375,10 +526,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="349" y="73" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1536.834@0.0.1536.834" timestamp="1577693442604" />
-    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1585475562442">
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1585988793984">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1585475562442" />
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1585988793984" />
     <state x="425" y="189" key="run.anything.popup" timestamp="1585452137381">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

@@ -1,0 +1,216 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "dsadsa",
+      "position": "fdsafdsa",
+      "lever": "21312",
+      "partitive": "321321",
+      "birthDay": "3213-02-21",
+      "idCard": "123321321",
+      "salary": "32132131",
+      "phone": "0901123456",
+      "email": "123@gadsad",
+      "address": "Đà Nẵng"
+    },
+    {
+      "id": 2,
+      "name": "ABv",
+      "position": "123",
+      "lever": "1234",
+      "partitive": "123",
+      "birthDay": "1123-02-12",
+      "idCard": "123456789",
+      "salary": "123456789",
+      "phone": "0901234567",
+      "email": "123456@gmail.com",
+      "address": "vietdat675123"
+    }
+  ],
+  "customer": [
+    {
+      "id": 1,
+      "fullNameCustomer": "Nguyễn Kim",
+      "typeCustomer": "Vip",
+      "birthdayCustomer": "1997-02-22",
+      "idCardCustomer": "123456789",
+      "phoneNumberCustomer": "0901234567",
+      "emailCustomer": "123456@gmail.com",
+      "addressCustomer": "Đà Nẵng"
+    },
+    {
+      "id": 3,
+      "fullNameCustomer": "Nguyễn Kim 3",
+      "typeCustomer": "Vip",
+      "birthdayCustomer": "30-08-1997",
+      "idCardCustomer": "123456789",
+      "phoneNumberCustomer": "123456789",
+      "emailCustomer": "123456@gmail.com",
+      "addressCustomer": "Đà Nẵng 3"
+    },
+    {
+      "id": 5,
+      "fullNameCustomer": "Nguyễn Kim 4",
+      "typeCustomer": "Vip",
+      "birthdayCustomer": "30-08-1997",
+      "idCardCustomer": "123456789",
+      "phoneNumberCustomer": "123456789",
+      "emailCustomer": "123456@gmail.com",
+      "addressCustomer": "Đà Nẵng 4"
+    },
+    {
+      "id": 7,
+      "fullNameCustomer": "ABV",
+      "typeCustomer": "123456",
+      "birthdayCustomer": "3121-12-12",
+      "idCardCustomer": "123456789",
+      "phoneNumberCustomer": "0901234567",
+      "emailCustomer": "123@gmail",
+      "addressCustomer": "123456"
+    },
+    {
+      "id": 8,
+      "fullNameCustomer": "Khánh",
+      "typeCustomer": "123456",
+      "birthdayCustomer": "1123-02-12",
+      "idCardCustomer": "123567892",
+      "phoneNumberCustomer": "0901234567",
+      "emailCustomer": "123456@gadsa",
+      "addressCustomer": "1236"
+    }
+  ],
+  "contract": [
+    {
+      "id": 3,
+      "idEmployee": "1",
+      "idCustomer": "2",
+      "idService": "1",
+      "starDateContract": "25-02-1997",
+      "endDateContract": "25-06-1997",
+      "depositMoney": "100000",
+      "totalMoney": "2000000"
+    },
+    {
+      "id": 4,
+      "idEmployee": "1",
+      "idCustomer": "2",
+      "idService": "1",
+      "starDateContract": "25-02-1997",
+      "endDateContract": "25-06-1997",
+      "depositMoney": "100000",
+      "totalMoney": "2000000"
+    },
+    {
+      "id": 5,
+      "idEmployee": "NV-1234",
+      "idCustomer": "KH-2334",
+      "idService": "DV-1234",
+      "starDateContract": "1234-12-31",
+      "endDateContract": "1234-12-21",
+      "depositMoney": "12345",
+      "totalMoney": "123"
+    },
+    {
+      "id": 6,
+      "idEmployee": "NV-1234",
+      "idCustomer": "KH-1236",
+      "idService": "DV-1234",
+      "starDateContract": "1997-12-31",
+      "endDateContract": "1998-02-12",
+      "depositMoney": "123456",
+      "totalMoney": "123456"
+    },
+    {
+      "id": 7,
+      "idEmployee": "NV-9998",
+      "idCustomer": "KH-1234",
+      "idService": "DV-1234",
+      "starDateContract": "1234-01-21",
+      "endDateContract": "1546-12-25",
+      "depositMoney": "123456",
+      "totalMoney": "23123"
+    }
+  ],
+  "contractDetail": [
+    {
+      "id": 3,
+      "idContract": "3",
+      "idServicePlus": "2",
+      "amount": "101"
+    },
+    {
+      "id": 4,
+      "idContract": "2",
+      "idServicePlus": "3",
+      "amount": "103"
+    },
+    {
+      "id": 5,
+      "idContract": "HD-1234",
+      "idServicePlus": "DV-1235",
+      "amount": "02312555"
+    }
+  ],
+  "service": [
+    {
+      "id": 2,
+      "nameService": "Karaoke",
+      "area": 111,
+      "numberFloors": 111,
+      "maxPeople": "10",
+      "feeRent": "10231",
+      "idTypeRent": 123,
+      "status": "Còn"
+    },
+    {
+      "id": 3,
+      "nameService": "Nhậu",
+      "area": 111,
+      "numberFloors": 111,
+      "maxPeople": "10",
+      "feeRent": "10231",
+      "idTypeRent": 123,
+      "status": "Còn"
+    },
+    {
+      "id": 4,
+      "nameService": "Bida",
+      "area": 111,
+      "numberFloors": 111,
+      "maxPeople": "10",
+      "feeRent": "10231",
+      "idTypeRent": 123,
+      "status": "Còn"
+    },
+    {
+      "id": 5,
+      "nameService": "Hồ bơi",
+      "area": 111,
+      "numberFloors": 111,
+      "maxPeople": "10",
+      "feeRent": "10231",
+      "idTypeRent": 123,
+      "status": "Còn"
+    },
+    {
+      "id": 6,
+      "nameService": "Em út",
+      "area": 111,
+      "numberFloors": 111,
+      "maxPeople": "10",
+      "feeRent": "10231",
+      "idTypeRent": 123,
+      "status": "Còn"
+    },
+    {
+      "id": 7,
+      "nameService": "Karaoke",
+      "maxPeople": "100",
+      "feeRent": "1230000",
+      "idTypeRent": "123456",
+      "status": "Hết",
+      "area": "123",
+      "numberFloors": "5"
+    }
+  ]
+}

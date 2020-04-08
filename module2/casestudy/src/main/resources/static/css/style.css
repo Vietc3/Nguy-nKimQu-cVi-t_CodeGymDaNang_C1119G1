@@ -56,3 +56,6 @@ body {
     border-color: #FF0000;
     margin-bottom: 10px;
 }
+.form-inline mt-2 mt-md-0{
+    width: 60px;
+}
